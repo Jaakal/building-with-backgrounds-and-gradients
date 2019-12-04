@@ -1,4 +1,4 @@
-1<img src="screenshot.png" width="500px">
+1<img src="screenshot.png" width="800px">
 
 # building-with-backgrounds-and-gradients
 
