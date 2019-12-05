@@ -1,8 +1,10 @@
-1<img src="screenshot.png" width="800px">
-
 # building-with-backgrounds-and-gradients
 
 This is a clone of Apple old webpage.
+
+# Screenshot
+
+![Screenshot of the webpage](https://github.com/Jaakal/building-with-backgrounds-and-gradients/screenshot.jpg)
 
 ## Getting Started
 
