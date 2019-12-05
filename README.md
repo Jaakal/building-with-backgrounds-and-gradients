@@ -1,6 +1,6 @@
 # Building with backgrounds and gradients
 
-This is a clone of Apple old webpage.
+This is a clone of the Apple Company old webpage.
 
 ## Screenshot
 
@@ -8,11 +8,11 @@ This is a clone of Apple old webpage.
 
 ## Getting Started
 
-One has to download the project and launch index.html in the browser.
+One has to download the project and launch the index.html in a browser.
 
 ## Built With
 
-* [VS Code](https://code.visualstudio.com/) - The web framework used
+* [VS Code](https://code.visualstudio.com/) - The code editor used
 
 ## Authors
 
@@ -24,4 +24,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments
 
-* Thanks to Apple Company and to all the people who were involved building so beautiful webpage in the first place.
+* Thanks to the Apple Company and to all the people who were involved building so beautiful webpage in the first place.
