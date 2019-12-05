@@ -1,8 +1,8 @@
-# building-with-backgrounds-and-gradients
+# Building with backgrounds and gradients
 
 This is a clone of Apple old webpage.
 
-# Screenshot
+## Screenshot
 
 ![Screenshot of the webpage](https://github.com/Jaakal/building-with-backgrounds-and-gradients/blob/apple/screenshot.jpg)
 
